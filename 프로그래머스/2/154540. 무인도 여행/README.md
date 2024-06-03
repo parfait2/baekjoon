@@ -1,6 +1,6 @@
 # [level 2] 무인도 여행 - 154540 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/154540?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/154540) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 06월 03일 17:03:41
+2024년 06월 03일 17:04:00
 
 ### 문제 설명
 
